@@ -1,0 +1,15 @@
+LINGUAGEM DE PROGRAMAÇÃO
+
+PYTHON - CRIAÇÃO DE API'S
+NODE.JS
+JAVA
+R
+GOLANG
+PHP
+
+
+------------------------------
+
+BIBLIOTECAS => PYTHON (pip install)
+
+
