@@ -13,3 +13,7 @@ PHP
 BIBLIOTECAS => PYTHON (pip install)
 
 
+
+git add
+git commit
+git push
